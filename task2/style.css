@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+}
+
+body {
+  padding: 10vw 20vw;
+  font-size: 2vw;
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  font-size: 3vw;
+}
+
+.cities {
+  padding: 3vw 0;
+}
+
+li {
+  list-style-type: none;
+  color: rgb(119, 158, 176);
+  padding-top: 1vw;
+}/*# sourceMappingURL=style.css.map */
